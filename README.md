@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **Abhignareddy6/Abhignareddy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
